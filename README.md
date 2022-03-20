@@ -4,6 +4,7 @@ Tietokantasovellus 2022
 Wordle-kirjanpitosovellus, jonne kirjataan kaveriporukan päivittäiset wordle ja/tai sanuli-tulokset. Sovelluksen tarkoitus on tilastoida kaveriporukan tuloksia ja vertailla niitä käyttäjien välillä
 
 https://www.nytimes.com/games/wordle/index.html
+
 https://sanuli.fi/
 
 Perustoiminnot:
