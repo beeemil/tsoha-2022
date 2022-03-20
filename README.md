@@ -8,7 +8,7 @@ https://www.nytimes.com/games/wordle/index.html
 https://sanuli.fi/
 
 Perustoiminnot:
-- Käyttäjä pystyy kirjautumaan sovellukseen käyttäjätunnuksella ja salasanalla
+- Käyttäjä pystyy luomaan käyttäjätunnukset, kirjautumaan sovellukseen käyttäjätunnuksella ja salasanalla ja kirjautumaan ulos
 - Käyttäjä pystyy kirjaamaan kunkin päivän wordle- tai sanulituloksen
 - Käyttäjä pystyy luomaan ryhmän, johon muut käyttäjät voivat liittyä
 - Käyttäjä pystyy vertailla oman ryhmän jäsenten tuloksia ja tarkastella ryhmän tulosten avainlukuja
